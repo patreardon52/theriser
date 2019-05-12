@@ -21,9 +21,6 @@
 		<loc>http://www.theriser.com.au/functionroom.html</loc>
 	</url>
 	<url>
-		<loc>http://www.theriser.com.au/BGFUNCTION.html</loc>
-	</url>
-	<url>
 		<loc>http://www.theriser.com.au/whatson.html</loc>
 	</url>
 	<url>
@@ -43,5 +40,8 @@
 	</url>
 	<url>
 		<loc>http://www.theriser.com.au/gallery.html</loc>
+	</url>
+	<url>
+		<loc>http://www.theriser.com.au/bgfunction.html</loc>
 	</url>
 </urlset>
