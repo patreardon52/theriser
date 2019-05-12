@@ -3,21 +3,6 @@
 		<loc>http://www.theriser.com.au/home.html</loc>
 	</url>
 	<url>
-		<loc>http://www.theriser.com.au/page8.html</loc>
-	</url>
-	<url>
-		<loc>http://www.theriser.com.au/page9.html</loc>
-	</url>
-	<url>
-		<loc>http://www.theriser.com.au/page10.html</loc>
-	</url>
-	<url>
-		<loc>http://www.theriser.com.au/page12.html</loc>
-	</url>
-	<url>
-		<loc>http://www.theriser.com.au/page13.html</loc>
-	</url>
-	<url>
 		<loc>http://www.theriser.com.au/bar.html</loc>
 	</url>
 	<url>
@@ -42,6 +27,21 @@
 		<loc>http://www.theriser.com.au/whatson.html</loc>
 	</url>
 	<url>
-		<loc>http://www.theriser.com.au/GALLERY.html</loc>
+		<loc>http://www.theriser.com.au/about.html</loc>
+	</url>
+	<url>
+		<loc>http://www.theriser.com.au/functions.html</loc>
+	</url>
+	<url>
+		<loc>http://www.theriser.com.au/eat.html</loc>
+	</url>
+	<url>
+		<loc>http://www.theriser.com.au/contact.html</loc>
+	</url>
+	<url>
+		<loc>http://www.theriser.com.au/facilities.html</loc>
+	</url>
+	<url>
+		<loc>http://www.theriser.com.au/gallery.html</loc>
 	</url>
 </urlset>
